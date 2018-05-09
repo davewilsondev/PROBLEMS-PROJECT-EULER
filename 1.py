@@ -13,4 +13,3 @@ for i in range(1000):
 print(sum(multiples))
 
 
-Sent from my iPhone
